@@ -1,0 +1,22 @@
+Kata #1
+
+Crea un programa que le pregunte al usuario su nombre y edad.
+Imprime un mensaje dirigido a él,
+que le diga el año en que cumplirá cien años
+
+Kata #2
+
+Pídele un número al usuario.
+Dependiendo de si el número es par o impar,
+imprime el mensaje apropiado al usuario
+
+Kata #3
+Escribe un programa que tome una lista de números
+(por ejemplo, a = [5, 10, 15, 20, 25]) y haz dos nuevas listas.
+una que contenga sólo el primer y último número de la lista original
+y otra que contenga todos los números intermedios
+
+Kata #4
+Escribe una función que tome una lista de números y un número.
+La función debe checar si el número pertenece a la lista y devolver
+el booleano correspondiente
